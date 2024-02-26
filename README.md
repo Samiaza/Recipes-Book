@@ -3,7 +3,7 @@ iOs app. Designed for receiving, storing and step-by-step display of recipes.
 
 ## Описание
 
-Это приложение для управления рецептами, которое позволяет пользователям загружать рецепты используя [spoonacular API](https://spoonacular.com/food-api). Для хранения данных загруженных рецептов используется *Core Data*/
+Это приложение для управления рецептами, которое позволяет пользователям загружать рецепты используя [spoonacular API](https://spoonacular.com/food-api). Для хранения данных загруженных рецептов используется *Core Data*.
 
 <p style="display: flex; justify-content: space-between;">
   <img src="/misc/images/app1.png" width="200" style="margin-right:  10px; border:  2px solid black;" />
