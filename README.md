@@ -5,14 +5,14 @@ iOs app. Designed for receiving, storing and step-by-step display of recipes.
 
 Это приложение для управления рецептами, которое позволяет пользователям загружать и хранить рецепты используя [spoonacular API](https://spoonacular.com/food-api).
 
-<p float="left">
-  <img src="/misc/images/app1.png" width="200" />
-  <img src="/misc/images/app2.png" width="200" />
-  <img src="/misc/images/app4.png" width="200" />
-  <img src="/misc/images/app5.png" width="200" />
-  <img src="/misc/images/app6.png" width="250" />
-  <img src="/misc/images/app7.png" width="250" />
-  <img src="/misc/images/app8.png" width="250" />
+<p style="display: flex; justify-content: space-between;">
+  <img src="/misc/images/app1.png" width="200" style="margin-right:  10px; border:  2px solid black;" />
+  <img src="/misc/images/app2.png" width="200" style="margin-right:  10px; border:  2px solid black;" />
+  <img src="/misc/images/app4.png" width="200" style="margin-right:  10px; border:  2px solid black;" />
+  <img src="/misc/images/app5.png" width="200" style="margin-right:  10px; border:  2px solid black;" />
+  <img src="/misc/images/app6.png" width="250" style="margin-right:  10px; border:  2px solid black;" />
+  <img src="/misc/images/app7.png" width="250" style="margin-right:  10px; border:  2px solid black;" />
+  <img src="/misc/images/app8.png" width="250" style="border:  2px solid black;" />
 </p>
 
 ## Установка
